@@ -1,0 +1,62 @@
+:root{
+    --white-smoke: #fff;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 100%;
+}
+body{
+    text-rendering: optimizeLegibility;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    line-height: 1.7;
+    background-color: #fff;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-left: 75px;
+    border-style:groove; color: blueviolet;
+}
+
+.bg-silvered{
+    background-color: whitesmoke;
+    
+}
+.bg-ivory{
+    background-color: ivory;
+    min-height: 100vh;
+}
+.blue-violet{
+    color: blueviolet;
+}
+
+#bar-container
+{
+    width: 200px;
+    height: 7px;
+    background-color:antiquewhite;
+    text-align: center;
+    color: white;
+}
+.bg-slate-grey{
+    background-color: slategrey;
+    opacity: 0.4;
+    min-height: 25vh !important;
+}
+#msoffice {width: 180px; height: 7px; background-color: blueviolet;}
+       #SAP {width: 150px; height: 7px; background-color: blueviolet;}
+       #Troubleshooting {width: 190px; height: 7px; background-color: blueviolet;}
+       #FSSC-Q {width: 140px; height: 7px; background-color: blueviolet;}
+       #Equipment {width: 190px; height: 7px; background-color: blueviolet;}
+       #Laboratory-management{width: 190px; height: 7px; background-color: blueviolet;}
+       #time-management {width: 190px; height: 7px; background-color: blueviolet;}
+       #team-player {width: 190px; height: 7px; background-color: blueviolet;}
+       #mentoring {width: 160px; height: 7px; background-color: blueviolet;}
+       #detailed {width: 190px; height: 7px; background-color: blueviolet;}
+       #cross-functional-relationship {width: 190px; height: 7px; background-color: blueviolet;}
