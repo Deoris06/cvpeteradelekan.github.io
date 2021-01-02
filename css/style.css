@@ -47,7 +47,7 @@ body{
 .bg-slate-grey{
     background-color: slategrey;
     opacity: 0.4;
-    min-height: 25vh !important;
+    min-height:40vh !important;
 }
 #msoffice {width: 180px; height: 7px; background-color: blueviolet;}
        #SAP {width: 150px; height: 7px; background-color: blueviolet;}
