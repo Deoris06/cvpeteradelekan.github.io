@@ -18,7 +18,7 @@ body{
 
 @media (min-width: 792px) and (max-width: 920px){
     body{
-        background-color: red !important;
+        background-color: #fff !important;
     }
     .bg-slate-grey{
         min-height: 49vh;
@@ -42,7 +42,6 @@ body{
 }
 .bg-ivory{
     background-color: ivory;
-    height: 1255px !important;
 }
 .bg-trans{
     height: 1250px !important;
